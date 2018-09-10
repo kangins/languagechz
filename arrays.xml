@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="circle_camera_setting" />
+    <style name="circle_camera_setting_flash" />
+    <style name="circle_camera_setting_profession" />
+    <style name="circle_camera_setting_profession_wb" />
+    <style name="circle_camera_setting_resoulation" />
+    <style name="circle_camera_setting_shoot" />
+    <style name="circle_camera_setting_wb" />
+    <style name="circle_level0_open_new" />
+    <style name="circle_level0_process_type" />
+    <style name="circle_setting_filter_desc" />
+    <style name="cirlce_camera_setting_grid" />
+    <style name="week" />
+</resources>
